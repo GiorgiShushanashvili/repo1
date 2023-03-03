@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{D2CA9319-0E0F-485A-B5BF-DE6F950EC43B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="CommschoolProject/Program.cs">
     <Files>
-      <File FileName="CommschoolProject/Program.cs" Line="7" Column="22" />
+      <File FileName="CommschoolProject/Program.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CommschoolProject" expanded="True">
-            <Node name="CommschoolProject" expanded="True" selected="True" />
+            <Node name="CommschoolProject" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
