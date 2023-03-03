@@ -1,0 +1,15 @@
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/bin/Debug/net6.0/CommschoolProject
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/bin/Debug/net6.0/CommschoolProject.deps.json
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/bin/Debug/net6.0/CommschoolProject.runtimeconfig.json
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/bin/Debug/net6.0/CommschoolProject.dll
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/bin/Debug/net6.0/CommschoolProject.pdb
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/obj/Debug/net6.0/CommschoolProject.csproj.AssemblyReference.cache
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/obj/Debug/net6.0/CommschoolProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/obj/Debug/net6.0/CommschoolProject.AssemblyInfoInputs.cache
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/obj/Debug/net6.0/CommschoolProject.AssemblyInfo.cs
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/obj/Debug/net6.0/CommschoolProject.csproj.CoreCompileInputs.cache
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/obj/Debug/net6.0/CommschoolProject.dll
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/obj/Debug/net6.0/refint/CommschoolProject.dll
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/obj/Debug/net6.0/CommschoolProject.pdb
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/obj/Debug/net6.0/CommschoolProject.genruntimeconfig.cache
+/Users/giorgishushanashvili/Projects/CommschoolProject/CommschoolProject/obj/Debug/net6.0/ref/CommschoolProject.dll
